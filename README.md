@@ -7,10 +7,10 @@ To achieve this goal we will be making use of a state-of-the-art gradient boosti
 
 During the Project, we will see:
 1. How to efficiently use popular python libraries like pandas
-2. How to use chatboost
+2. How to use catboost
 3. How to enrich data with Upgini 
 4. Import of data enrichment 
-5. What are SHAP value 
+5. What are SHAP values
 6. What are SMAPE values 
 7. How to split time-series datasets into training and testing sets
 8. How to train and test models.
